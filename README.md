@@ -2,8 +2,7 @@
 A PixelOS fork created by @QKIvan.  
 Status: Android-14,Feb ASB,WIP
 
-## Changes(2024-2-23)
-- Switch to Launcher3
+## Changes(2024-2-24)
 - Add Statusbar lyric
 - Add per-app volume
 - Add reTicker
@@ -21,6 +20,7 @@ Status: Android-14,Feb ASB,WIP
 - Stop scrolling the QS carrier text
 - Ignore PLMN bit when SPN is required
 - Add multi-language carrier names
+- Add 5g toggle
 And more
 
 ## Credits
